@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Gustave! 🌊 I am 
 
-<!--
-**gustaver/gustaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* A Computer Science MSc & BSc graduate from [KTH](https://www.kth.se/en/studies/master/computer-science/description-1.419974) 🤖
+* A Clojure & functional programming enthusiast λ
+* A Photographer 📸 Surfer 🏄‍♂️ Snowboarder 🏂 check it out at: [my website](http://www.rousselet.se)
 
-Here are some ideas to get you started:
+I'm passionate about computer science all around, but some areas I'm currently interested in are: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Large scale software engineering
+* Data-intensive systems
+* Distributed and parallel computing
+
+I haven't had so much time to work on hobby projects during my degree due to working alongside my studies, but I've pinned a couple project I've worked on that I'm proud of 😄
+
+I've got academic and professional experience in a broad range of areas. [Get in touch](mailto:gustave.rousselet@icloud.com)
