@@ -1,7 +1,7 @@
 # Hi, I'm Gustave! 🌊 I am 
 
 * A Computer Science MSc & BSc graduate from [KTH](https://www.kth.se/en/studies/master/computer-science/description-1.419974) 🤖
-* A Clojure & functional programming enthusiast λ
+* A Clojure & functional programming enthusiast λ, also a big fan of Rust 🦀
 * A Photographer 📸 Surfer 🏄‍♂️ Snowboarder 🏂 check it out at: [my website](http://www.rousselet.se)
 
 I'm passionate about computer science all around, but some areas I'm currently interested in are: 
